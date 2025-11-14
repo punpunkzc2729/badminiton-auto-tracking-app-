@@ -1,0 +1,7 @@
+{
+  "name": " Badminton AI Scoring Engine",
+  "description": "An advanced badminton scoring application that uses an AI engine to suggest rally outcomes. It features a complete scoring system with manual overrides, undo/redo functionality, and server position indicators, all wrapped in a sleek, modern interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
